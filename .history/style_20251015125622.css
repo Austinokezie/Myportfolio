@@ -1191,11 +1191,6 @@ section.contact {
     width: 100%;
   }
 
-  .contact-info li {
-    font-size: 0.9rem;
-    white-space: nowrap;
-  }
-
   .contact-info h3 {
     text-align: center;
   }
