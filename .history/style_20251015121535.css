@@ -588,12 +588,11 @@ header {
 }
 
 .project-description {
-    font-size: 16px;
+    font-size: 14px;
     color: #b0b0b0;
     line-height: 1.5;
     margin: 0;
-    margin-top: 8px;
-    font-family: serif;
+    margin-top: 5px;
 }
 
 .link-space {
@@ -603,11 +602,9 @@ header {
   text-decoration: none;
   color: #00e6b8;
   margin-top: 8px;
-  font-family: serif;
 }
 .project-card .stack{
-  font-weight: 500;
-  line-height: 1.4;
+  font-weight: 400;
   font-family: serif;
   margin-top: 8px;
 }

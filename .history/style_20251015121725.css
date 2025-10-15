@@ -588,7 +588,7 @@ header {
 }
 
 .project-description {
-    font-size: 16px;
+    font-size: 13px;
     color: #b0b0b0;
     line-height: 1.5;
     margin: 0;
@@ -603,7 +603,6 @@ header {
   text-decoration: none;
   color: #00e6b8;
   margin-top: 8px;
-  font-family: serif;
 }
 .project-card .stack{
   font-weight: 500;
